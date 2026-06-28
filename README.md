@@ -47,7 +47,9 @@ In the future, I plan to expand this lab by adding more users, additional Group 
 
 
 NTFS Permissions
+
 ![NTFS Permissions](NTFS Permission.jpeg)
 
  Group Policy
+ 
 ![Group Policy](group-policy.jpg.jpeg)
