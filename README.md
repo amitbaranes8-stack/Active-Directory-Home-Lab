@@ -43,13 +43,11 @@ In the future, I plan to expand this lab by adding more users, additional Group 
 
 ## Screenshots
 
-![OU Structure](ou-structure.jpg.jpeg)
+### OU Structure
+![OU Structure](ou-structure.jpeg)
 
+### NTFS Permissions
+![NTFS Permissions](ntfs-permissions.jpeg)
 
-NTFS Permissions
-
-![NTFS Permissions](NTFS Permission.jpeg)
-
- Group Policy
- 
+### Group Policy
 ![Group Policy](group-policy.jpeg)
