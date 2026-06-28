@@ -40,3 +40,14 @@ This project helped me understand:
 Future Improvements
 
 In the future, I plan to expand this lab by adding more users, additional Group Policies, and security monitoring tools.
+
+## Screenshots
+
+![OU Structure](ou-structure.jpg.jpeg)
+
+
+NTFS Permissions
+![NTFS Permissions](NTFS Permission.jpeg)
+
+ Group Policy
+![Group Policy](group-policy.jpg.jpeg)
