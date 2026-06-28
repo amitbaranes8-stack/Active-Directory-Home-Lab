@@ -52,4 +52,4 @@ NTFS Permissions
 
  Group Policy
  
-![Group Policy](group-policy.jpg.jpeg)
+![Group Policy](group-policy.jpeg)
